@@ -1,0 +1,128 @@
+Anglo-saxon-1	Anglo-saxon-2	French-1	French-2	
+cow		beef		
+calf		veal		
+swine		pork		
+sheep		mutton		
+hen		poultry		
+dove		pigeon		
+mindful		pensive		
+kingly		royal		
+almighty		omnipotent		
+ask		enquire		
+bring		carry		
+amaze		astonish		
+wordbook		dictionary		
+ghost		phantom		
+smell		odor		
+hue		color		
+help		aid		
+buy		purchase		
+belief		faith		
+beget		engender		
+wonder		ponder		
+selfhood		identity		
+weep		cry		
+lawyer		attorney		
+answer		response		
+fall		autumn		
+weird		strange		
+folk		people		
+forgive		pardon		
+darling		favorite		
+worthy		valuable		
+to forsake		to abandon		
+drought		famine		
+wish		desire		
+freedom		liberty		
+brittle		frail		
+weak		feeble	 faint	
+wild		savage		
+betrothal		proposal		
+kingship		monarchy		
+forebear	forefather	ancestor		
+reckless		intrepid		
+awesome	unbelievable	incredible		
+tough		difficult		
+homesickness		nostalgia		
+hopelessness		despair		
+aching		painful		
+daring	boldness	audacity		
+midday		noon		
+to withstand		to resist		
+hearsay		rumour		
+unwilling	loath	reluctant		
+wilful		deliberate		
+lovely	fair	beautiful		
+anger	wrath	ire	 rage	
+angry	wrathful	irate		
+bloodthirsty		sanguinary		
+windpipe		trachea		
+woodwork		carpentry		
+beset		surround		
+warmongering		belligerent		
+deathly		lethal	 mortal	
+forgiving		indulgent		
+abide	acknowledge	comply	" obey, observe"	
+stern		severe		
+foe		enemy		
+friendly		amicable		
+downtrodden		oppressed		
+inn		tavern		
+woods	woodland	forest		
+to rue		to lament	 to regret	
+rueful		regretful		
+ruthless		remorseless		
+weapon		arm		
+lithe		gentle		
+grave		tomb		
+graveyard		cemetery		
+outspoken	straightforward	honest	 frank	
+green		verdant		
+snake		serpent		
+fire		flame		
+cook (noun)		chef		
+house		mansion		
+offspring		progeny		
+live		reside		
+dwell		reside		
+bookcraft		literature		
+twin		double		
+foretell		predict		
+foreshadow		presage		
+leave		egress	 exit	
+belly		stomach		depart
+understand		comprehend		
+laughable		ridiculous		
+foreguess		assume		
+needs		requirements		
+adder		viper		
+behead		decapitate		
+"forbid, ban"		prohibit		
+forelook		preview		
+forbearance		patience		
+gift		present		
+thoughts		ideas		
+wed		marry		
+wedlock		marriage		
+withtake		receive		
+flawless		perfect		
+maim		mutilate		
+end		finish		
+room		chamber		
+stone		rock		
+smother		suffocate		
+mar		spoil		
+beam		ray		
+milt		spleen		
+heed		attention		
+groom		brush		
+hanging		pendant		
+bodily		corporal		
+handbook		manual		
+come		arrive		
+womb		uterus		
+dog		canine		
+maidenhood		virginity		
+win (noun)		victory		
+stronghold		fort	 fortress	
+earl		count		
